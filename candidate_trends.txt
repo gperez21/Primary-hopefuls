@@ -1,0 +1,11 @@
+Candidate	State1	Index1	State2	Index2	State3	Index3	State4	Index4	State5	Index5
+Amy Klobuchar	Minnesota	100	District of Columbia	36	North Dakota	13	Montana	10	Massachusetts	8
+Joe Biden	Delaware	100	District of Columbia	96	Vermont	48	Massachusetts	46	Connecticut	43
+Elizabeth Warren	Massachusetts	100	District of Columbia	84	New Hampshire	45	Rhode Island	36	Vermont	36
+cory booker	District of Columbia	100	New Jersey	64	Delaware	30	New York	29	Maryland	29
+Bernie Sanders	Vermont	100	District of Columbia	44	New Hampshire	28	Maine	23	Oregon	21
+beto orourke	District of Columbia	100	Texas	87	Massachusetts	26	Vermont	25	New Mexico	25
+sherrod brown	Ohio	100	District of Columbia	93	Kentucky	10	Rhode Island	9	Massachusetts	9
+kamala harris	District of Columbia	100	California	37	Maryland	25	Vermont	24	Rhode Island	22
+julian castro	District of Columbia	100	Texas	31	New Hampshire	29	Rhode Island	17	Virginia	16
+Kirsten Gillibrand	District of Columbia	100	New York	63	Vermont	36	Massachusetts	21	New Hampshire	19
