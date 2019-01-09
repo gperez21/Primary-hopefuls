@@ -1,8 +1,8 @@
 # Primary-hopefuls
-Scrape google trends results for Democratic primary hopefuls 2020
+Scrape Google trends results for Democratic primary hopefuls 2020
 
 ## Data
-[**Table of the Candidates Top Search States:**](https://github.com/gperez21/Primary-hopefuls/blob/master/Top_search_states.csv) Not including the District of Columbia or the candidate's home state (or de facto home state)
+[**Table of the Candidate's Top Search States:**](https://github.com/gperez21/Primary-hopefuls/blob/master/Top_search_states.csv) Not including the District of Columbia or the candidate's home state (or de facto home state)
 
 
 [**CSV of Top 5 States on Google Trends:**](https://github.com/gperez21/primary-hopefuls/blob/master/candidate_trends_processed.csv)
