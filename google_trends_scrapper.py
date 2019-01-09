@@ -1,5 +1,5 @@
 # Scrape Google Trends results for presidential hopefuls
-# Gabriel Perez-Putnam 1/8/19
+# Gabriel Perez-Putnam 1/8/19 - some code adapted from IM
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
