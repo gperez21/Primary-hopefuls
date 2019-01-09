@@ -53,7 +53,7 @@ def clean_row_for_export(variables):
     return row
 
 def export_to_file(file_name, candidate_list):
-    """Export the beer information to a file"""
+    """Export the information to a file"""
     with open(file_name, 'w+', encoding='utf-8') as f:
         header = ['Candidate', 'State1', 'Index1', 'State2', 'Index2','State3',
                   'Index3','State4', 'Index4','State5', 'Index5']
