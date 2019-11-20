@@ -1,4 +1,4 @@
-# Primary-hopefuls
+# Democratic Primary Hopefuls
 Scrape Google trends results for Democratic primary hopefuls 2020
 
 ## Data
